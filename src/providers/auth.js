@@ -1,0 +1,3 @@
+//logica por localstorage etc...
+//neste teste alteraremos o valor true para false e vice versa
+export const isAuthenticated = () => true;
